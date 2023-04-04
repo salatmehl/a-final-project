@@ -11,7 +11,7 @@ const displayThankYouMessage = (e) => {
   //and adds an id to that p
   const thankYouMessageContainer = e.target.parentNode;
   thankYouMessageContainer.innerHTML =
-    "<p>You have booked your space! Congratulations!.</p>";
+    "<p>You have booked your space! Congratulations!</p>";
   thankYouMessageContainer.children[0].id = "thank-you-message";
   //resets the form to empty fields
   e.target.reset(); 
