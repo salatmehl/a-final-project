@@ -1,6 +1,6 @@
 //MANIPULATE THE FORM ELEMENT UPON SUBMIT
 //grab the from from the DOM
-const form = document.getElementById("booking");
+const form = document.getElementById("booking-form");
 
 //function that is executed when form is submitted
 const displayThankYouMessage = (e) => {
