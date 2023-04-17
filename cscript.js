@@ -1,6 +1,5 @@
 
-const form = document.getElementById("contact");
-
+const form = document.getElementById("contact-form");
 const displayMessageSent = (e) => {
  
   e.preventDefault();
