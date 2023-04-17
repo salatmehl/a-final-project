@@ -11,6 +11,6 @@ const displayMessageSent = (e) => {
  
   e.target.reset(); 
   const randomTransactionId = Math.floor(Math.random() * 100).toString();
- };
+ }
 form.addEventListener("submit", displayMessageSent);
 
