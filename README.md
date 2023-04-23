@@ -1,5 +1,5 @@
 # a-final-project
-This is a webpage used to build a website for the bootcamp's final project (Marketing Analytics).
+This is a webpage used to build a website for the bootcamp's final project (Digital Marketing Analytics).
 
 The website's structure is based on the scenario below. 
 
